@@ -1,5 +1,9 @@
 /* External Stylesheet */
 body {
+    font-family: "Lilita One", sans-serif;
+ }
+ 
+body {
     background: rgb(130, 216, 166);
 }
 
@@ -7,3 +11,4 @@ h1 {
     color :blue;
     text-align: center;
 }
+
